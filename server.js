@@ -19,13 +19,7 @@ nunjucks.configure('views', {
 })
 
 
-
-
-
-server.listen(3000, function() {
+server.listen(5000, function() {
     console.log('server is ruuning')
 })
 
-server.use(function(req, res) {
-    res.status(404).render("not-found");
-  });

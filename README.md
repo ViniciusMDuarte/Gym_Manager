@@ -12,7 +12,7 @@
 
 ## Sobre
 
-**Gym_Maneger** foi um projeto criado no **Bootcamp Launchbase** que permite gestão de uma academia completa.
+**Gym_Manager** foi um projeto criado no **Bootcamp Launchbase**, o projeto consiste em fazer a gestão de alunos e instrutores.
 
 
 ## Ferramentas
@@ -23,6 +23,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **CSS3**
 - **JavaScript**
 - **Node.js**
+- **Express**
 - **Browser-sync**
 
 
@@ -43,5 +44,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     $ npm start
 
     # View browser
-    $ http://localhost:5000/
+    $ http://localhost:3000/
 ```

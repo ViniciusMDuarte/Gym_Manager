@@ -2,6 +2,7 @@
 
 :root {
     --primary-color:#7159c1; 
+    --secondary-color:#f7df1e;
 }
 
 * {
@@ -103,6 +104,19 @@ header .logo img {
 .details .item {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     padding: 16px 0;
+}
+
+.details .item span {
+    padding: 8px 16px;
+    background-color: var(--secondary-color);
+    border-radius: 16px;
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #777;
+    margin-right: 4px;
 }
 
 .details .item:last-child {

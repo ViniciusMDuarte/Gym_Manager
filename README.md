@@ -1,7 +1,12 @@
 <h2 align="center"> Em construção ... </h2>
 
+<h1 align="center">
+   <img src="./github/logo_gym.svg" width="150px"/ alt="Logo GYM">
+</h1> 
+
+
 <p align="center">
-   <img src="./github/screenshot_gym-manager.JPG" width=""/>
+   <img src="./github/screenshot_gym-manager.JPG" width=""/ alt="screenshot page main">
 </p> 
 
 

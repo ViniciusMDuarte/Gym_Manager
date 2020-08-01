@@ -19,10 +19,17 @@ body {
 header {
     background-color: #fff;
     width: 100%;
-    padding: 32px;
+    padding: 22px 0 32px 0;
     text-align: center;
     box-sizing: border-box;
 }
+
+header .logo img {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+
 
 .links {
     font-size: 22px;

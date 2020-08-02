@@ -1,0 +1,15 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://www",
+      "name": "Vinicius",
+      "gender": "M",
+      "birth": 480211200000,
+      "type_class": "presencial",
+      "scholling": "Ensino Superior Completo",
+      "services": "crossfit",
+      "created_at": 1596398880896
+    }
+  ]
+}

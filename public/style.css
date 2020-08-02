@@ -132,7 +132,7 @@ header .logo img {
     letter-spacing: 0.7px;
 }
 
-
+select,
 .details .item div:nth-child(2) {
     color:#555;
     font-weight: bold;
@@ -142,4 +142,47 @@ header .logo img {
 .details h3 {
     text-transform: uppercase;
     color: var(--primary-color);
+    font-size: 16px;
+    font-weight: bold;
 }
+
+
+/* FORM */
+
+input {
+    width: 100%;
+    outline: none;
+    color:#555;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+input[type="radio"] {
+    width: initial;
+    margin-right: 4px;
+}
+
+/* input[type='checkbox']:checked + label::after  {
+    content: "";
+    background-color: var(--primary-color);
+} */
+
+input::placeholder {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+button[type="submit"] {
+    padding: 8px 16px;
+    background-color: var(--primary-color);
+    border-radius: 4px;
+    margin-top: 32px;
+    width: 100%;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+

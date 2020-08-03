@@ -2,14 +2,25 @@
   "instructors": [
     {
       "id": 1,
-      "avatar_url": "http://www",
-      "name": "Vinicius",
+      "avatar_url": "https://source.unsplash.com/collection/9419482/500x500",
+      "name": "Valesca",
       "gender": "M",
       "birth": 480211200000,
-      "type_class": "presencial",
+      "type_class": "Presencial",
+      "scholling": "Mestrado",
+      "services": "Musculação, crossfit",
+      "created_at": 1596406109392
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/9419482/500x500",
+      "name": "Vinici",
+      "gender": "M",
+      "birth": 480211200000,
+      "type_class": "dadasda",
       "scholling": "Ensino Superior Completo",
-      "services": "crossfit",
-      "created_at": 1596398880896
+      "services": "dadada",
+      "created_at": 1596413604642
     }
   ]
 }
